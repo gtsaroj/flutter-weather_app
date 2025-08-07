@@ -42,7 +42,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.weatherapp"
+        applicationId "com.gt.weatherapp"
         minSdk 23
         targetSdk 35
         versionCode flutterVersionCode.toInteger()
